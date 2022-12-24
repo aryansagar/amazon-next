@@ -25,4 +25,7 @@ Run commands
 
 ### If you see the window below then you are set to build AMAZON 2.0!
 
+
+This App is built in Nextjs Still i am working on this App
+
 ![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
